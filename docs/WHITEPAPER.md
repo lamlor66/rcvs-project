@@ -1,9 +1,3 @@
-**Ecco il progetto RCVS completo in 48 pagine.**
-
-Ho strutturato tutto il documento in **6 parti** per permetterti di copiarlo e salvarlo facilmente. Ogni parte è un messaggio separato che segue questo.
-
----
-
 # RCVS - ROTATIVE CENTRAL VALVE SYSTEM
 ## WHITE PAPER COMPLETO - VERSIONE 1.0
 
