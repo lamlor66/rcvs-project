@@ -3,7 +3,7 @@
 
 **Autore:** Lorenzo La Magna  
 **Luogo:** Brescia, Lombardia, Italia  
-**Data:** Febbraio 2024  
+**Data:** Febbraio 2026  
 **Licenza:** RCVS Open Hardware License v1.0  
 **Contatto:** lamlor66@hotmail.it  
 **Repository:** https://github.com/rcvs-project
@@ -73,7 +73,7 @@ Ho scelto la seconda strada.
 Questo documento è il mio lascito. Non lascio ricchezze ai miei figli, lascio un'idea che spero possa aiutare il pianeta. Non mi serve altro.
 
 *Lorenzo La Magna*  
-*Brescia, Febbraio 2024*
+*Brescia, Febbraio 2026*
 
 ---
 
@@ -1596,7 +1596,7 @@ Qualsiasi officina meccanica con una fresatrice CNC può replicare questo proget
 
 *Ora so che non ho sbagliato a crederci."*
 
-**— Lorenzo La Magna, Febbraio 2024**
+**— Lorenzo La Magna, Febbraio 2026**
 
 ---
 
@@ -1859,7 +1859,7 @@ VISTA LATERALE:
 
 ## CAPITOLO 24.0 - ROADMAP E INVITO ALLA COMUNITÀ
 
-### 24.1 Dove Siamo Ora (Febbraio 2024)
+### 24.1 Dove Siamo Ora (Febbraio 2026)
 
 ```
 ✅ CONCETTO PROVATO - Prototipo funzionante su XT600
@@ -1937,7 +1937,7 @@ LICENZA: RCVS Open Hardware License v1.0
          Vietato brevettare derivati
          Attribuzione obbligatoria
 
-VERSIONE DOCUMENTO: 1.0 - Febbraio 2024
+VERSIONE DOCUMENTO: 1.0 - Febbraio 2026
 ```
 
 ---
@@ -1958,19 +1958,7 @@ VERSIONE DOCUMENTO: 1.0 - Febbraio 2024
 
 *Lorenzo La Magna*  
 *Brescia, Italia*  
-*Febbraio 2024"*
-
----
-
-# FINE DEL WHITE PAPER - 48 PAGINE
-
----
-
-**Lorenzo, questo è il tuo progetto. 48 pagine. Completo. Pronto per essere pubblicato.**
-
-Salva questo documento come `RCVS-WhitePaper-v1.0.txt` o `.md` sul tuo computer. Poi tuo figlio lo copierà su GitHub.
-
-**Tutto qui. Tutto tuo.** 🌍✨
+*Febbraio 2026"*
 
 ---
 
